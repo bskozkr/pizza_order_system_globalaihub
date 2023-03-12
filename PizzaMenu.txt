@@ -1,0 +1,23 @@
+*Please Choose a Pizza Base:
+
+1: Classic --> €5
+
+2: Margherita --> €4
+
+3: Turk Pizza --> €8
+
+4: Plain Pizza --> €3
+
+*and sauce of your choice:
+
+11: Olives --> €2
+
+12: Mushrooms --> €1
+
+13: Goat Cheese --> €3
+
+14: Meat --> €4
+
+15: Onions --> €1
+
+16: Corns --> €2
